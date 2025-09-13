@@ -17,6 +17,7 @@
 
 ## 📄 Lisans
 Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakınız. 
+
 Bu altyapi 09/13/2025 - 12.00am tarihinde @wencyone tarafindan paylasilmistir. Baskasi tarafindan paylasilmasi durumunda gerekli islemler baslatilcaktir. 
 
 **Developed By Wency**
