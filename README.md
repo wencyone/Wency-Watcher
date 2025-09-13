@@ -1,6 +1,6 @@
 # Discord Url Sniper :D 
 
-![GitHub stars](https://img.shields.io/github/stars/wencyone/Wency-Watcher?style=social)
+![Visits](https://img.shields.io/badge/Visits-1,000,000-blue)
 
 
 ## 🚀 Hakkında
