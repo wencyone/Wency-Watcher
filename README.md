@@ -1,6 +1,6 @@
 # Discord Url Sniper :D 
 
-![Visits](https://img.shields.io/badge/Visits-1,000,000-blue)
+![Visits](https://img.shields.io/badge/Visits-3,421-blue)
 
 
 ## 🚀 Hakkında
