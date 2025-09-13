@@ -1,6 +1,6 @@
 # Discord Url Sniper :D 
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=wencyone.discord-invite-monitor)
+![GitHub stars](https://img.shields.io/github/stars/wencyone/Wency-Watcher?style=social)
 
 
 ## 🚀 Hakkında
